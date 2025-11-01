@@ -7,17 +7,8 @@
 - **Classifier:** `Naive Bayes`, `SVM`, `Logistic Regression`, `Decision Tree`, `kNN`, `ANN`.
 - **Cross-Validation:** `GridSearch`, `RandomSearch`
 
-## About The Data
 This dataset contained two label values, namely "1" for hoax and "0" for not hoax. The total data in this dataset is 4,701. Each label has a varied amount of data distribution, including 3850 data for hoax and 851 data for not hoax.
 
 | **Label**      | Hoax |  Not Hoax   |
 | :------------- | :--: | :---------: |
 | **Total Data** | 3850 |     851     |
-
-## Algorithm included
-- [x] Text cleaning/preprocessing
-- [x] Non-standard word replacement
-- [x] Feature extraction: *BoW*, *TF-IDF*
-- [x] Classification: *Naive Bayes*, *SVM*, *Logistic Regression*, *Decision Tree*, *kNN*, *ANN*
-- [x] Cross-Validation: *Grid Search*, *Random Search*
-- [x] Post analysis: *topicwizard*, *Voyant Tools*, *WordCloud*
