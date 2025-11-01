@@ -1,12 +1,5 @@
 # Analysis & Classification of Hoax in MAFINDO Dataset
 
-> **Credits :**
-> 1. Yudistira Dwi Cahya
-> 2. Wulan Akhsah
-> 3. Kamal Muftie Yafi
-> 4. Rachel Thyffani Margaretha S
-> 5. Vesya Padmadewi
-
 ## Set
 - **Dataset:** Hoax dataset obtained from [MAFINDO (Masyarakat Anti Fitnah Indonesia)](https://raw.githubusercontent.com/taudataanalytics/taudata-Academy/master/data/Data-Hoax-Mafindo.csv);
 - **Slang:** Modified Kamus Alay based on [Kamus Alay (Colloquial Indonesian Lexicon)](https://github.com/nasalsabila/kamus-alay);
